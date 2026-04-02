@@ -1,2 +1,2 @@
-# data_structure-algorithm-
+# data_structure-algorithm
 数据结构与算法学习
