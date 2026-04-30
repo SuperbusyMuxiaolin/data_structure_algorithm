@@ -49,6 +49,7 @@ public:
         if (map.find(key) != map.end())
         {
             map[key]->value = val;
+            return;
         }
         // 把节点加入到链表尾巴
         auto temp = tail->prev;
